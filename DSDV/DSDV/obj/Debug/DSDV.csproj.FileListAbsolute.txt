@@ -1,0 +1,20 @@
+C:\Users\Gintarė\Desktop\DSDV\DSDV\bin\Debug\DSDV.exe.config
+C:\Users\Gintarė\Desktop\DSDV\DSDV\bin\Debug\DSDV.exe
+C:\Users\Gintarė\Desktop\DSDV\DSDV\bin\Debug\DSDV.pdb
+C:\Users\Gintarė\Desktop\DSDV\DSDV\obj\Debug\DSDV.csprojResolveAssemblyReference.cache
+C:\Users\Gintarė\Desktop\DSDV\DSDV\obj\Debug\DSDV.exe
+C:\Users\Gintarė\Desktop\DSDV\DSDV\obj\Debug\DSDV.pdb
+C:\Users\Gintarė\Desktop\DSDV\DSDV\obj\Debug\DSDV.Meniu.resources
+C:\Users\Gintarė\Desktop\DSDV\DSDV\obj\Debug\DSDV.csproj.GenerateResource.Cache
+F:\Gintarytės\paskaitos\.   II KURSAS\II SEMESTRAS\Kompiuterių tinklai\Praktika\DSDV\DSDV\bin\Debug\DSDV.exe.config
+F:\Gintarytės\paskaitos\.   II KURSAS\II SEMESTRAS\Kompiuterių tinklai\Praktika\DSDV\DSDV\obj\Debug\DSDV.exe
+F:\Gintarytės\paskaitos\.   II KURSAS\II SEMESTRAS\Kompiuterių tinklai\Praktika\DSDV\DSDV\obj\Debug\DSDV.pdb
+C:\Users\Albert\Documents\DSDV\DSDV\bin\Debug\DSDV.exe.config
+C:\Users\Albert\Documents\DSDV\DSDV\bin\Debug\DSDV.exe
+C:\Users\Albert\Documents\DSDV\DSDV\bin\Debug\DSDV.pdb
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.Meniu.resources
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.csproj.GenerateResource.cache
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.csproj.CoreCompileInputs.cache
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.exe
+C:\Users\Albert\Documents\DSDV\DSDV\obj\Debug\DSDV.pdb
